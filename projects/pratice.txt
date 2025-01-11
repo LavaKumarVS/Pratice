@@ -3,3 +3,4 @@ Hi this is lava from day 07/01/2025->status 3%
 Hi this is lava from day 08/01/2025->status 4%
 Hi this is lava from day 09/01/2025->status 5%
 Hi this is lava from day 10/01/2025->status 6%
+HI this is lava from day 11/01/2025->status 7%-> Brinary search in DSA, TDD & BDD in terms of testing.
