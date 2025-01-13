@@ -5,3 +5,4 @@ Hi this is lava from day 09/01/2025->status 5%
 Hi this is lava from day 10/01/2025->status 6%
 Hi this is lava from day 11/01/2025->status 7%-> Binary search in DSA, TDD & BDD in terms of testing.
 Hi this is lava from day 12/01/2025->status 8%-> Binary search in DSA, TDD & BDD in testing.
+Hi this is lava from day 13/01/2025->status 9%-> Binary search in DSA, SQL and relatoinal database.
