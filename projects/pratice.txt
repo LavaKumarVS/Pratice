@@ -8,3 +8,4 @@ Hi this is lava from day 12/01/2025->status 8%-> Binary search in DSA, SQL and r
 Hi this is lava from day 13/01/2025->status 8%-> SQL and relatoinal database.
 Hi this is lava from day 14/01/2025->status 9%-> SQL and relational database, binary search in DSA.
 Hi this is lava from day 15/01/2025->status 11%-> everthing about SDLC, 2d Binary search in DSA, Bubble sort, Selection sort in DSA, Basics of  OS, SQL and realtional database. 
+Hi this is lava from day 16/01/2025->status 12%-> sorting and DSA, and SQL ~ DML, SELECT ~ between, in, like ~ joins outer and inner. 
