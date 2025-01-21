@@ -11,4 +11,5 @@ Hi this is lava from day 15/01/2025->status 11%-> everthing about SDLC, 2d Binar
 Hi this is lava from day 16/01/2025->status 12%-> sorting and DSA, and SQL ~ DML, SELECT ~ between, in, like ~ joins outer and inner.
 Hi this is lava from day 17/01/2025->status 13%-> cyclic storting and leetcode and W3Scholls ~ started learnig with basics and fundamentals of java.
 Hi this is lava from day 18/01/2025->status 13%-> W3Scholls ~ started learnig with basics and fundamentals of java, and project understading, aurigo test for QE tranee
-HI this is lava from day 19/01/2025->status 14%-> cyclic sorting completed and leetcode first hard sloved, W3Scholls ~ started learnig with basics and fundamentals of java.HI this is lava from day 20/01/2025->status 14%-> W3schools ~ 30% completed of java basics.
+HI this is lava from day 19/01/2025->status 14%-> cyclic sorting completed and leetcode first hard sloved, W3Scholls ~ started learnig with basics and fundamentals of java.HI this is lava from day 20/01/2025->status 14%-> W3schools ~ 30% completed of java basics
+Hi this is lava from day 21/02/2025->status 15%-> String and its usecase and understading.
