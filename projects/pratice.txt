@@ -17,3 +17,4 @@ Hi this is lava from day 22/01/2025->status 15%-> string and its use cases caomp
 Hi this is lava from day 23/01/2025->status 16%-> COmpleted SQL and relational database of IBM(DDL,DML,SORT~GROUP BY~ORDER BY, SELECT~Joins ~ INNER, OUTER etc.
 Hi this is lava from day 24/01/2025->status 16%-> pattern using JAVA loops.
 Hi this is lava from day 25/01/2025->status 17%-> completed pattern using JAVA and also completed half of the W3school java intro.
+Hi this is lava from day 04/01/2025->status 25%-> recusion with basic java fundamentals
