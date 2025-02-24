@@ -19,3 +19,5 @@ Hi this is lava from day 24/01/2025->status 16%-> pattern using JAVA loops.
 Hi this is lava from day 25/01/2025->status 17%-> completed pattern using JAVA and also completed half of the W3school java intro.
 Hi this is lava from day 04/02/2025->status 25%-> recusion with basic java fundamentals
 Hi sorry there is been some seroius things happening in my current working orgnizatiion, now i'm back to track 20%-> with recursion also learnoing java basics again simentionasly!
+Hi this is lava from day 22/01/2025-> status 21% basics of sorting and recursion
+
